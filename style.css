@@ -459,7 +459,9 @@
     .hidden {
         display: none;
     }
-    
+    .yellow {
+       color:gold; 
+}
     @media (max-width: 992px) {
         .navbar-text {
             display: block;
