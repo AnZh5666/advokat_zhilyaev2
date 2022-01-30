@@ -527,6 +527,10 @@
     }
     
     @media (max-width: 380px) {
+       .logo {
+            width:200px;
+            height:70px;
+        }
         .advantage-block-title {
             font-size: 1rem;
         }
