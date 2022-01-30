@@ -16,7 +16,7 @@ async function formSend(e) {
     let formData = new FormData(form);
     if (error === 0) {
         form.classList.add('sending');
-        let response = await fetch('mail.php', {
+        let response = await fetch('./mail.php', {
             method: 'POST',
             body: formData
         });
