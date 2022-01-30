@@ -76,7 +76,7 @@
         padding: 20px;
         border: 2px solid #fff;
         border-radius: 8px;
-        box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+        box-shadow: 12px 12px 2px 1px rgba(177, 177, 177, 0.2);
     }
     
     .info-text p a {
@@ -100,7 +100,7 @@
         border: none;
         margin-top: 50px;
         font-weight: bold;
-        box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+        box-shadow: 12px 12px 2px 1px rgba(177, 177, 177, 0.2);
     }
     
     .scale button {
@@ -163,7 +163,7 @@
     .services-block {
         min-height: 240px;
         color: black;
-        box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+        box-shadow: 12px 12px 2px 1px rgba(177, 177, 177, 0.2);
         margin-top: 40px;
         background-color: seashell;
         border-radius: 7px;
